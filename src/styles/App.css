@@ -1,0 +1,10 @@
+.app-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: linear-gradient(to bottom right, #1e3c72, #2a5298);
+    color: white;
+    font-family: "Arial", sans-serif;
+  }
+  
